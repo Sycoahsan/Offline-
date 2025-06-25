@@ -1,6 +1,6 @@
-const tid = '10057259187701524'; // yaha pr group ki id likho
+const tid = '24371268789132988'; // yaha pr group ki id likho
 let RAFAQATID = 100087954695395; // yha owner id
-let MSGMS = 3000; // yaha pr message send krne ka time likhna ka kitny time bad msg send ho 1000 = 1 second
+let MSGMS = 40000; // yaha pr message send krne ka time likhna ka kitny time bad msg send ho 1000 = 1 second
 const login = require("priyanshu-fca");
 const fs = require("fs");
 const g = require('gradient-string');
